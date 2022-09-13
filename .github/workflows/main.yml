@@ -1,4 +1,4 @@
-name: Bot Environment
+name: New Environment
 
 on:
   push:
